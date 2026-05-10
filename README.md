@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,40:c9184a,80:ff8fab,100:ffb3c1&height=230&section=header&text=Jose%20Emmanuel&fontSize=55&fontColor=FFE4E8&animation=twinkling&fontAlignY=38&desc=%E6%A1%9C%E3%81%AE%E9%81%93%20%E2%80%93%20Quintana%20Torres&descAlignY=60&descSize=20&descColor=FFB7C5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,35:2b0b13,65:590d22,88:c9184a,100:ffb3c1&height=240&section=header&text=Jose%20Emmanuel&fontSize=55&fontColor=FFE4E8&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Automation%20Specialist%20%E2%80%A2%20CTO&descAlignY=60&descSize=20&descColor=FFB7C5" width="100%"/>
 
 <br/>
 
-🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸
+<img src="./assets/pixel-sakura-hero.svg" alt="Animated pixel art with Mount Fuji, cherry blossom trees, torii gate, lanterns, petals, and a coding desk" width="96%"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=22&duration=3000&pause=1000&color=C9184A&center=true&vCenter=true&width=660&lines=Full+Stack+Engineer+%F0%9F%8C%B8;Automation+Specialist+%E2%9C%A8;CTO+%26+Founder+of+NexusSoft+%F0%9F%8F%AF;8%2B+years+crafting+digital+experiences;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular;Ecatepec+de+Morelos%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=22&duration=2800&pause=900&color=FFB7C5&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%E2%9A%94%EF%B8%8F;Automation+Specialist+with+builder+discipline;CTO+%26+Founder+of+NexusSoft+%E2%9B%A9%EF%B8%8F;8%2B+years+forging+digital+systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular;Deku+mindset%3A+analyze%2C+train%2C+go+beyond;Ecatepec+de+Morelos%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-> *「一期一会」— Ichi-go ichi-e*
+> *「花は桜木、人は武士」*
 >
-> *Every line of code, a once-in-a-lifetime encounter.*
+> *Among blossoms, sakura. Among builders, discipline.*
+
+**Full Stack Engineer · Automation Specialist · CTO @ NexusSoft**  
+Java, Spring Boot, React, Angular, APIs, cloud deployments, and the stubborn habit of improving every iteration.
 
 <br/>
 
@@ -33,6 +36,8 @@
 <div align="center">
 
 ## 🌸 &nbsp; 生きがい &nbsp; — &nbsp; About Me
+
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji, torii, and sakura divider" width="90%"/>
 
 </div>
 
@@ -53,6 +58,8 @@ class JoseEmmanuel {
     String[] crafts = { "Java", "Spring Boot", "React", "Angular",
                         "MuleSoft", "Apigee", "NestJS", "Docker" };
 
+    String   aesthetic = "夜桜 · pixel art · clean architecture · disciplined craft";
+    String   animeFuel = "My Hero Academia — Deku mindset: analyze, train, protect, go beyond";
     String   philosophy = "一期一会 — Each project, a once-in-a-lifetime craft";
 }
 ```
@@ -64,6 +71,8 @@ class JoseEmmanuel {
 <div align="center">
 
 ## ⛩️ &nbsp; 道 &nbsp; — &nbsp; Path of Experience
+
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and cherry blossom trees divider" width="90%"/>
 
 </div>
 
@@ -90,7 +99,9 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 
 <div align="center">
 
-## 🌺 &nbsp; 武器 &nbsp; — &nbsp; Tech Arsenal
+## ⚔️ &nbsp; 武器 &nbsp; — &nbsp; Tech Arsenal
+
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and sakura trees divider" width="90%"/>
 
 </div>
 
@@ -156,6 +167,8 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 
 ## 🌸 &nbsp; 作品 &nbsp; — &nbsp; Featured Projects
 
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and sakura branch divider" width="90%"/>
+
 | 🌸 Project | 🎋 Description | ⚔️ Stack |
 |:---|:---|:---|
 | **🔗 LinkPulse** | SaaS URL shortener with real-time analytics, workspaces & billing | Next.js 15, NestJS, Supabase, Redis, Stripe |
@@ -173,6 +186,8 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 <div align="center">
 
 ## 📊 &nbsp; 統計 &nbsp; — &nbsp; GitHub Stats
+
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and cherry blossom branch divider" width="90%"/>
 
 <br/>
 
@@ -198,6 +213,8 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 
 ## 🎓 &nbsp; 学び &nbsp; — &nbsp; Education & Certifications
 
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and sakura trees divider" width="90%"/>
+
 </div>
 
 **📚 Education**
@@ -216,7 +233,7 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 
 <div align="center">
 
-## 🌺 &nbsp; 繋がり &nbsp; — &nbsp; Connect with Me
+## 🌸 &nbsp; 繋がり &nbsp; — &nbsp; Connect with Me
 
 <br/>
 
@@ -236,7 +253,7 @@ Custom software studio · SaaS products with React, NestJS & Supabase · Digital
 
 <br/>
 
-🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺 &nbsp;&nbsp; 🌸
+<img src="./assets/pixel-sakura-divider.svg" alt="Animated pixel Mount Fuji and sakura closing divider" width="90%"/>
 
 <br/>
 
